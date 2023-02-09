@@ -1,0 +1,164 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Depeche Mode",
+      "description": "Depeche Mode are an English electronic band formed in Basildon in 1980. The band currently consists of Dave Gahan (lead vocals, co-songwriting) and Martin Gore (keyboards, guitar, co-lead vocals, primary songwriting).",
+      "imageUrl": "/assets/depeche_mode.jpg",
+      "contractSignedOn": "1980-09-24T22:39:41.473Z",
+      "albums": 14
+    },
+    {
+      "id": 2,
+      "name": "Rammstein",
+      "description": "Rammstein is a German Neue Deutsche Härte band formed in Berlin in 1994. The band's lineup—consisting of lead vocalist Till Lindemann, lead guitarist Richard Kruspe, rhythm guitarist Paul Landers, bassist Oliver Riedel, drummer Christoph Schneider, and keyboardist Christian \"Flake\" Lorenz—has remained unchanged throughout their history, along with their approach to songwriting, which consists of Lindemann writing and singing the lyrics over instrumental pieces the rest of the band has completed beforehand.",
+      "imageUrl": "/assets/rammstein.jpg",
+      "contractSignedOn": "1994-03-24T18:24:01.706Z",
+      "albums": 8
+    },
+    {
+      "id": 3,
+      "name": "Pink Floyd",
+      "description": "Pink Floyd were an English rock band formed in London in 1965. Gaining an early following as one of the first British psychedelic groups, they were distinguished by their extended compositions, sonic experimentation, philosophical lyrics and elaborate live shows. They became a leading band of the progressive rock genre, cited by some as the greatest progressive rock band of all time.",
+      "imageUrl": "/assets/pink_floyd.jpg",
+      "contractSignedOn": "1965-11-14T01:10:42.344Z",
+      "albums": 15
+    },
+    {
+      "id": 4,
+      "name": "Nightwish",
+      "description": "Nightwish is a Finnish symphonic metal band from Kitee. The band was formed in 1996 by lead songwriter and keyboardist Tuomas Holopainen, guitarist Emppu Vuorinen, and former lead singer Tarja Turunen. The band soon picked up drummer Jukka Nevalainen, and then bassist Sami Vänskä after the release of their debut album, Angels Fall First(1997). In 2001, Vänskä was replaced by Marko Hietala, who also took over the male vocalist role previously filled by Holopainen or guest singers.",
+      "imageUrl": "/assets/nightwish.jpg",
+      "contractSignedOn": "1996-07-06T21:46:47.944Z",
+      "albums": 9
+    },
+    {
+      "id": 5,
+      "name": "Megadeth",
+      "description": "Megadeth is an American thrash metal band formed in Los Angeles in 1983 by vocalist/guitarist Dave Mustaine. Known for their technically complex guitar work and musicianship, Megadeth is one of the \"big four\" of American thrash metal along with Metallica, Anthrax, and Slayer, responsible for the genre's development and popularization. Their music features complex arrangements and fast rhythm sections, dual lead guitars, and lyrical themes of war, politics, religion, death, and personal relationships.",
+      "imageUrl": "/assets/megadeth.jpg",
+      "contractSignedOn": "1983-04-11T19:19:53.624Z",
+      "albums": 16
+    },
+    {
+      "id": 6,
+      "name": "Metallica",
+      "description": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine, who formed Megadeth after being fired from the band, and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
+      "imageUrl": "/assets/metallica.jpg",
+      "contractSignedOn": "1981-10-28T17:00:16.696Z",
+      "albums": 11
+    },
+    {
+      "id": 7,
+      "name": "Ghost",
+      "description": "Ghost is a Swedish rock band that was formed in Linköping in 2006. In 2010, they released a three-track demo followed by a 7-inch vinyl titled \"Elizabeth\", and later their debut full-length album Opus Eponymous. The song \"Ritual\" was chosen by Kerrang! as one of \"The 50 Most Evil Songs Ever.\" The Grammis-nominated album was widely praised and significantly increased their popularity. Their second album and major label debut, Infestissumam, was released in 2013, debuted at number one in Sweden, and won the Grammis Award for Best Hard Rock/Metal Album. The band released their third studio album, Meliora, in 2015, reaching number one in Sweden, and number eight in the US. Its lead single, \"Cirice\", earned them the 2016 Grammy Award for Best Metal Performance. The band released their fourth studio album, Prequelle, in 2018. The band released their fifth studio album, Impera, in 2022.",
+      "imageUrl": "/assets/ghost.jpg",
+      "contractSignedOn": "2010-10-18T19:46:53.146Z",
+      "albums": 5
+    },
+    {
+      "id": 8,
+      "name": "System of a Down",
+      "description": "System of a Down (also known as SoaD or simply System) is an Armenian-American heavy metal band formed in Glendale, California, in 1994. Since 1997, the band has consisted of Serj Tankian (lead vocals, keyboards); Daron Malakian (guitar, vocals); Shavo Odadjian (bass, backing vocals); and John Dolmayan (drums), who replaced original drummer Andy Khachaturian.",
+      "imageUrl": "/assets/system_of_a_down.jpg",
+      "contractSignedOn": "1998-06-30T08:07:32.217Z",
+      "albums": 5
+    },
+    {
+      "id": 9,
+      "name": "Iron Maiden",
+      "description": "Iron Maiden are an English heavy metal band formed in Leyton, East London, in 1975 by bassist and primary songwriter Steve Harris. While fluid in the early years of the band, the lineup for most of the band's history has consisted of Harris, lead vocalist Bruce Dickinson, drummer Nicko McBrain, and guitarists Dave Murray, Adrian Smith and Janick Gers. The band have released 41 albums, including 17 studio albums, 13 live albums, four EPs and seven compilations. They have also released 47 singles and 20 video albums. Two electronic games have been released with Iron Maiden soundtracks, and the band's music is featured in a number of other video games.",
+      "imageUrl": "/assets/iron_maiden.jpg",
+      "contractSignedOn": "1980-04-14T21:27:25.035Z",
+      "albums": 17
+    },
+    {
+      "id": 10,
+      "name": "The Who",
+      "description": "The Who are an English rock band formed in London in 1964. Their core lineup consisted of lead vocalist Roger Daltrey, guitarist Pete Townshend, bassist John Entwistle and drummer Keith Moon. They are considered one of the most influential rock bands of the 20th century, and have sold over 100 million records worldwide. Their contributions to rock music include the development of the Marshall Stack, large PA systems, the use of the synthesizer, Entwistle and Moon's influential playing styles, Townshend's feedback and power chord guitar technique, and the development of the rock opera. They are cited as an influence by many hard rock, punk, power pop and mod bands, and their songs are still regularly played. The Who were inducted into the Rock and Roll Hall of Fame in 1990.",
+      "imageUrl": "/assets/the_who.jpg",
+      "contractSignedOn": "1965-12-03T02:40:48.906Z",
+      "albums": 12
+    },
+    {
+      "id": 11,
+      "name": "Gojira",
+      "description": "Gojira is a French heavy metal band from Ondres. Founded as Godzilla in 1996, the band's lineup—brothers Joe (lead vocals, rhythm guitar) and Mario Duplantier (drums), Christian Andreu (lead guitar), and Jean-Michel Labadie (bass)—has been the same since the band changed its name to Gojira in 2001. Gojira has been known for their progressive and technical death metal styles and their spiritual, philosophical, and environmentally-themed lyrics. The band has gone \"from the utmost obscurity during the first half of their career to widespread global recognition in the second\".",
+      "imageUrl": "/assets/gojira.jpg",
+      "contractSignedOn": "2001-03-19T04:57:43.124Z",
+      "albums": 7
+    },
+    {
+      "id": 12,
+      "name": "Rush",
+      "description": "Rush was a Canadian rock band formed in 1968 in Toronto, that was comprised primarily of Geddy Lee (bass, vocals), Alex Lifeson (guitar), and Neil Peart (drums, percussion, lyricist). The band was formed in Toronto in 1968 by Lifeson, drummer John Rutsey, and bass guitarist/vocalist Jeff Jones, who was immediately replaced by Lee. After Lee joined, the band went through several line-up configurations before arriving at its classic power trio line-up with the addition of Peart in July 1974, who replaced Rutsey four months after the release of their self-titled debut album; this line-up remained intact for the remainder of the band's career.",
+      "imageUrl": "/assets/rush.jpg",
+      "contractSignedOn": "1974-03-01T12:11:19.381Z",
+      "albums": 19
+    },
+    {
+      "id": 13,
+      "name": "Judas Priest",
+      "description": "Judas Priest are an English heavy metal band formed in Birmingham in 1969. They have sold over 50 million albums and are frequently ranked as one of the greatest metal bands of all time. Despite an innovative and pioneering body of work in the latter half of the 1970s, the band had struggled with indifferent record production and a lack of major commercial success until 1980, when they rose to commercial success with the album British Steel.",
+      "imageUrl": "/assets/judas_priest.jpg",
+      "contractSignedOn": "1974-09-06T13:19:03.691Z",
+      "albums": 18
+    },
+    {
+      "id": 14,
+      "name": "Dua Lipa",
+      "description": "Dua Lipa (born 22 August 1995) is a British and Albanian singer and songwriter. Possessing a mezzo-soprano vocal range, she is known for her signature disco-pop sound. Lipa has received numerous accolades, including six Brit Awards, three Grammy Awards, two MTV Europe Music Awards, an MTV Video Music Award, two Billboard Music Awards, an American Music Award, and two Guinness World Records. \"No Lie\" and \"New Rules\", each have over 1 billion views on YouTube, with \"New Rules\" having reached over 2.8 billion views.",
+      "imageUrl": "/assets/dua_lipa.jpg",
+      "contractSignedOn": "2017-06-02T07:03:27.419Z",
+      "albums": 2
+    },
+    {
+      "id": 15,
+      "name": "Korn",
+      "description": "Korn (stylized as KoЯn, or occasionally KoRn) is an American nu metal band from Bakersfield, California, formed in 1993. The band is notable for pioneering the nu metal genre and bringing it into the mainstream. Originally formed in 1993 by three members of the band L.A.P.D., Korn's current lineup features founding members James \"Munky\" Shaffer (guitar); Reginald \"Fieldy\" Arvizu (bass); Brian \"Head\" Welch (guitar, backing vocals); and Jonathan Davis (lead vocals, bagpipes), with the addition of Ray Luzier (drums) in 2007, replacing the band's first drummer David Silveria.",
+      "imageUrl": "/assets/korn.jpg",
+      "contractSignedOn": "1994-10-11T01:00:34.527Z",
+      "albums": 14
+    },
+    {
+      "id": 16,
+      "name": "Tool",
+      "description": "Tool is an American rock band from Los Angeles. Formed in 1990, the group's line-up includes vocalist Maynard James Keenan, guitarist Adam Jones and drummer Danny Carey. Justin Chancellor has been the band's bassist since 1995, replacing their original bassist Paul D'Amour. Tool has won four Grammy Awards, performed worldwide tours, and produced albums topping the charts in several countries.",
+      "imageUrl": "/assets/tool.jpg",
+      "contractSignedOn": "1992-03-10T12:28:52.794Z",
+      "albums": 5
+    },
+    {
+      "id": 17,
+      "name": "Omul cu Șobolani",
+      "description": "Omul cu Șobolani (known also as OCS) is a Romanian alternative rock band, formed in 1997. Currently, the band lineup includes Dan Amariei (vocals), Nicolae \"Nucu\" Aramă (guitar), Radu Caragea (bass) and Mihnea Dobrotă (drums).",
+      "imageUrl": "/assets/omul_cu_sobolani.jpg",
+      "contractSignedOn": "1997-08-01T03:45:46.028Z",
+      "albums": 7
+    },
+    {
+      "id": 18,
+      "name": "Soundgarden",
+      "description": "Soundgarden was an American rock band formed in Seattle, Washington, in 1984 by singer and drummer Chris Cornell, lead guitarist Kim Thayil (both of whom are the only members to appear in every incarnation of the band), and bassist Hiro Yamamoto; Cornell switched to rhythm guitar in 1985, replaced on drums initially by Scott Sundquist, and later by Matt Cameron in 1986. Yamamoto left in 1990 and was replaced initially by Jason Everman and shortly thereafter by Ben Shepherd. The band dissolved in 1997 and re-formed in 2010. Following Cornell's death in 2017 and a year of uncertainty regarding the band's future, Thayil declared in October 2018 that Soundgarden had disbanded once again, though they did reunite in January 2019 for a one-off concert in tribute to Cornell.",
+      "imageUrl": "/assets/soundgarden.jpg",
+      "contractSignedOn": "1988-10-31T11:56:25.464Z",
+      "albums": 6
+    },
+    {
+      "id": 19,
+      "name": "Amon Amarth",
+      "description": "Amon Amarth is a Swedish melodic death metal band from Tumba, formed in 1992. The band takes its name from the Sindarin name of Mount Doom, a volcano in J. R. R. Tolkien's Middle-earth. Their lyrics mostly deal with Viking mythology and history, and so they have been sometimes erroneously labeled \"Viking metal\", although the band insists they play melodic death metal.",
+      "imageUrl": "/assets/amon_amarth.jpg",
+      "contractSignedOn": "1998-02-10T03:49:52.933Z",
+      "albums": 12
+    },
+    {
+      "id": 20,
+      "name": "Alternosfera",
+      "description": "Alternosfera is an alternative rock band originally from Chişinău, Republic of Moldova but after Russian invasion of Ukraine they relocated to Sibiu, Romania due to safety reasons. They started their career in 1998 in highschool with their first album, Oraşul 511.",
+      "imageUrl": "/assets/alternosfera.jpg",
+      "contractSignedOn": "2005-05-28T09:09:54.542Z",
+      "albums": 6
+    }
+  ]
+}
